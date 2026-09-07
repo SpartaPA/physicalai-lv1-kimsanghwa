@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "ros2_ws-turtle_cpp",
+            "compileCommands": "${workspaceFolder}/ros2_ws/build/compile_commands.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
